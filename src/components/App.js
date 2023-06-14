@@ -12,7 +12,6 @@ const App = () => {
     <div>
         <p>Button clicked {click} times</p>
         <button onClick={butnClicked}>Click me</button>
-        
     </div>
   )
 }
